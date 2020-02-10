@@ -3,3 +3,12 @@ Purpose: The purpose of this website is to help users easily create a password w
 Why it is useful: It is useful because it creates strong passwords easily without you having to spend time thinking of an effective one.
 
 Current author: Maintenance and further contributions are made by Christopher Gonzalez.
+
+Link for deployed website: 
+
+[Website] (https://spiralout92.github.io/Easy-to-Use-Password-Generator-/)
+
+Link for deployed website image: 
+
+![password generator](passwordgenpicture.jpg)
+Format: ![password gen picture]
