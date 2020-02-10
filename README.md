@@ -11,4 +11,3 @@ Link for deployed website:
 Link for deployed website image: 
 
 ![password generator](passwordgenpicture.jpg)
-Format: ![password gen picture]
