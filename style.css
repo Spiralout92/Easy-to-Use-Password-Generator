@@ -1,0 +1,51 @@
+body {
+	align-items: center;
+	padding: 60px;
+	display: flex;
+	flex-direction: column;
+	background-color: goldenrod;
+	color: white;
+}
+
+h1 {
+  color: black;
+}
+
+/* From here down is all CSS for password generator box. */
+
+h2 {
+	text-align: center;
+	margin: 20px;
+}
+
+.password-generator {
+	padding: 20px;
+	width: 800px;
+	background-color: darkgreen;
+}
+
+.outcome-box #outcome {
+	word-wrap: break-word;
+  max-width: calc(100% - 40px);
+}
+
+.outcome-box {
+	align-items: center;
+	padding: 12px;
+	height: 50px;
+	background-color: rgba(41, 0, 0, 0.4);
+	display: flex;
+}
+
+.option {
+	margin: 10px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.button {
+	background-color: red;
+	color: white;
+	padding: 10px;
+}
+
